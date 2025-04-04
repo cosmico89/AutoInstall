@@ -1,2 +1,2 @@
 Stable Branch (Recommended)
-<code>https://github.com/cosmico89/AutoInstall/blob/main/install.ps1</code>
+<code>irm "https://raw.githubusercontent.com/cosmico89/AutoInstall/main/install.ps1" | iex</code>
